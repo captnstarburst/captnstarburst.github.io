@@ -12,7 +12,10 @@ body {
   header .slides, header > .dg {
 	display: none;
   }
-  
+  .draw{
+	display:flex;
+	margin: 0 auto;
+  }		  
   .page-header {
 	font-size: 3em;
 	font-family: "Bangers", cursive;
