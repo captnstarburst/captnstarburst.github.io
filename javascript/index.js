@@ -12,6 +12,8 @@ var ptl = new ps.Particle(ps);
 // Set time to live of Particle to20 frames.
 ptl.ttl = 20;
 
+lazyload();
+
 window.addEventListener(
 	"scroll",
 	function(event) {

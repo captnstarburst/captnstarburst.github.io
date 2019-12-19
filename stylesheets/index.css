@@ -19,6 +19,7 @@ body {
   .page-header {
 	font-size: 3em;
 	font-family: "Bangers", cursive;
+	font-display: swap;
 	letter-spacing: 5px;
 	text-align: center;
 	text-shadow: 0 1px 1px #aaf0d1;
@@ -27,6 +28,7 @@ body {
   blockquote {
 	font-family: Oswald;
 	font-size: 1.5em;
+	font-display: swap;
   }
   
   .padding {
@@ -41,6 +43,7 @@ body {
   p {
 	font-family: Oswald;
 	font-size: 1.5em;
+	font-display: swap;
   }
   
   .screen {
