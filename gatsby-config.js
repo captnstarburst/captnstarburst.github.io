@@ -32,4 +32,5 @@ module.exports = {
       },
     },
   ],
+  pathPrefix: '/captnstarburst.github.io',
 };
