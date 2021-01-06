@@ -23,7 +23,7 @@ export const aboutData = {
   paragraphTwo:
     'I like working in TypeScript and using ReactJS. I like building Rest API endpoints using NodeJS. I enjoy using Google Cloud as a starting place for most projects. I am familiar with Git and using Github. I like to working using Agile methodologies and building, using, and implementing CI/CD pipelines.',
   paragraphThree: 'I am currently looking for my next big adventure!',
-  resume: 'https://www.conorhinchee.com/content/resume/Conor_Hinchee_Resume.pdf', // if no resume, the button will not show up
+  resume: 'Conor_Hinchee_Resume.pdf', // if no resume, the button will not show up
 };
 
 // PROJECTS DATA
