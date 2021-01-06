@@ -3,7 +3,7 @@ name: Gatsby Publish
 on:
   push:
     branches:
-      - dev
+      - portfolio2.0
 
 jobs:
   build:
